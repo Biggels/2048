@@ -1,4 +1,4 @@
-steps to make animate-css-grid work in live browser preview
+steps to make animate-css-grid work, since it's a node package but this is front-end javascript running in the browser
 1. npm init
 2. npm install animate-css-grid
 3. npm install browserify
